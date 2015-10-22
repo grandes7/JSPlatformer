@@ -6,8 +6,8 @@
 .wall          { background: #5882FA;   }
 
 .actor  { position: absolute;  }
-.coin { background:#FFFF33 ;border-radius: 100%;border: 1px solid #FF6600;}
-.player { background: #660099; }
+.coin { background:#FFFF33; border-radius: 100%;border: 1px solid #FF6600;}
+.player { background: #660099; border-radius: 22%;border: 1px solid white; }
 
 .game {
   overflow: hidden;
